@@ -26,3 +26,16 @@ h3 {
 p {
 
 }
+
+#objectsContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+div div {
+    width: 100%;
+}
+
+div div img {
+    max-width: 100%;
+}
